@@ -1,5 +1,7 @@
 ### ¡Hola!👋
-
+Gente que ha visto mi página: <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SrSisco.SrSisco" />
+  <h2>🦠Sobre mí🦠</h2>
+  
 Soy SrSisco, estudiante malagueño aficionado a la programación y los ordenadores.
  - Tengo 16 años.
  - Llevo trabajando en C# 1-2 años.
@@ -9,14 +11,12 @@ Soy SrSisco, estudiante malagueño aficionado a la programación y los ordenador
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SrSisco) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/srsisco_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SrSiscoX)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](ttps://www.youtube.com/channel/UCV_m5bE1ZogfAqMxsXJBPeA)
 
 
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SrSisco/SrSisco/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <h2>🌟Estadísticas🌟</h2>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SrSisco&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SrSisco&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SrSisco&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrSisco)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrSisco&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SrSisco)  
+<b>¡Eso es todo por ahora!</b>
