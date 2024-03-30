@@ -13,10 +13,10 @@ Soy SrSisco, estudiante malagueño aficionado a la programación y los ordenador
 
   <h2>🌟Estadísticas🌟</h2>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SrSisco&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SrSisco&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SrSisco&count_private=true&theme=dark&border_radius=10&locale=es" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SrSisco&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10&locale=es" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SrSisco&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SrSisco&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&locale=es" alt="top langs" />
 </div>
 
 <b>¡Eso es todo por ahora!</b>
