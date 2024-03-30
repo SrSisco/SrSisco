@@ -1,5 +1,5 @@
 ### ¡Hola!👋
-Gente que ha visto mi página: <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SrSisco.SrSisco" />
+Gente que ha visto mi página: <img src="https://visitor-badge.laobi.icu/badge?page_id=SrSisco.SrSisco" />
   <h2>🦠Sobre mí🦠</h2>
   
 Soy SrSisco, estudiante malagueño aficionado a la programación y los ordenadores.
