@@ -2,7 +2,7 @@
 Gente que ha visto mi página: <img src="https://visitor-badge.laobi.icu/badge?page_id=SrSisco.SrSisco" />
   <h2>🦠Sobre mí🦠</h2>
   
-Soy SrSisco, estudiante malagueño aficionado a la programación y los ordenadores.
+Soy SrSisco, estudiante aficionado a la programación y los ordenadores.
  - Tengo 16 años.
  - Llevo trabajando en C# 1-2 años.
  - Aficionado al modding de juegos.
